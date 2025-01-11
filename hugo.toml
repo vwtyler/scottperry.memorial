@@ -1,0 +1,7 @@
+baseURL = 'https://scottperry.memorial/'
+languageCode = 'en-us'
+title = 'In memory of Timothy "Scott" Perry'
+theme = 'pickle'
+
+[params]
+  paginate = 1

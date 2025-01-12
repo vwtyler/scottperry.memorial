@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>In memory of Timothy &#34;Scott&#34; Perry</title>
-    <link>http://localhost:1313/</link>
+    <link>https://scottperry.memorial/</link>
     <description>Recent content on In memory of Timothy &#34;Scott&#34; Perry</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 11 Jan 2025 12:57:34 -0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://scottperry.memorial/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Update</title>
-      <link>http://localhost:1313/posts/update/</link>
+      <link>https://scottperry.memorial/posts/update/</link>
       <pubDate>Sat, 11 Jan 2025 12:57:34 -0800</pubDate>
-      <guid>http://localhost:1313/posts/update/</guid>
+      <guid>https://scottperry.memorial/posts/update/</guid>
       <description>&lt;h2 id=&#34;remembering-scott&#34;&gt;Remembering Scott&lt;/h2&gt;&#xA;&lt;p&gt;This is a placeholder for the memorial site of Timothy &amp;ldquo;Scott&amp;rdquo; Perry.&lt;/p&gt;</description>
     </item>
   </channel>

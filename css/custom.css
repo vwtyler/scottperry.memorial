@@ -2,7 +2,7 @@
 .p-menu {
     display: flex;
     justify-content: right;
-    width: 100%; /* Full width container */
+    width: 80%; /* Full width container */
     padding: 0;
     box-sizing: border-box; /* Include padding in the width calculation */
   }
@@ -13,7 +13,7 @@
     flex-wrap: nowrap; /* Prevent items from wrapping to a new line */
     justify-content: right; /* Center items horizontally */
     gap: 20px; /* Add consistent spacing between items */
-    width: 100%; /* Ensure it stretches to fill the container */
+    width: 50%; /* Ensure it stretches to fill the container */
   }
   
   /* Individual menu items */
@@ -23,4 +23,22 @@
   }
   
 
+.p-menu__listitem a {
+    text-decoration: none; /* Default: No underline */
+    color: #555; /* Neutral gray for non-active links */
+   
+}
+
+.p-menu__listitem a:hover {
+    text-decoration: underline; /* Optional: Underline on hover */
+}
+
+.p-menu__listitem a.active {
+    text-decoration: none; /* Underline the active page's menu item */
+    background-color: #f0f0f0; /* Light gray background */
+    color: #333; /* Darker text color */
+    padding: 5px 10px; /* Add some padding for spacing */
+    border-radius: 5px; /* Optional: Rounded corners */
+
+}
 

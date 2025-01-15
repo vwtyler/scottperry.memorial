@@ -61,6 +61,18 @@
     
   </ul>
 </nav>
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const currentPath = window.location.pathname; 
+    const menuLinks = document.querySelectorAll(".p-menu__listitem a"); 
+
+    menuLinks.forEach(link => {
+      if (link.getAttribute("href") === currentPath) {
+        link.classList.add("active"); 
+      }
+    });
+  });
+</script>
 
   <header class="l-header">
     

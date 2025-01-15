@@ -1,0 +1,26 @@
+/* Top-level menu container */
+.p-menu {
+    display: flex;
+    justify-content: right;
+    width: 100%; /* Full width container */
+    padding: 0;
+    box-sizing: border-box; /* Include padding in the width calculation */
+  }
+  
+  /* Flex container for menu items */
+  .p-menu__lists {
+    display: flex;
+    flex-wrap: nowrap; /* Prevent items from wrapping to a new line */
+    justify-content: right; /* Center items horizontally */
+    gap: 20px; /* Add consistent spacing between items */
+    width: 100%; /* Ensure it stretches to fill the container */
+  }
+  
+  /* Individual menu items */
+  .p-menu__listitem {
+    flex-shrink: 0; /* Prevent items from shrinking */
+    margin: 0; /* Reset margins if any are inherited */
+  }
+  
+
+

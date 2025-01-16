@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}" prefix="og: http://ogp.me/ns#">
+{{ partial "head.html" . }}
+<body>
+  <a href="#main" class="skip-link p-screen-reader-text">{{ i18n "skip-to-content" }}</a>
+  {{ partial "svgpack-sprite.html" . }}
+  {{ partial "menu.html" . }}
+  <header class="l-header">
+    {{ if .IsPage }}
+    <p class="c-title p-title"><a href="{{ .Site.BaseURL }}" class="p-title__link">{{ .Site.Title }}</a></p>
+    {{ else }}
+    <h1 class="c-title p-title"><a href="{{ .Site.BaseURL }}" class="p-title__link">{{ .Site.Title }}</a></h1>
+    {{ end }}
+    {{ with ($.Param "subtitle") }}
+    <p class="p-subtitle">
+      {{ . }}
+    </p>
+    {{ end }}
+    <script>
+      var remark_config = {
+        host: "https://comments.tjackson.me",
+        site_id: "remark",
+      }
+    </script>
+    <script>
+      !function(e,n){for(var o=0;o<e.length;o++){var r=n.createElement("script"),c=".js",d=n.head||n.body;"noModule"in r?(r.type="module",c=".mjs"):r.async=!0,r.defer=!0,r.src=remark_config.host+"/web/"+e[o]+c,d.appendChild(r)}}(remark_config.components||["embed"],document);
+    </script>
+  </header>
+  {{- partial "header_custom.html" . }}
+  <main id="main" class="l-main">

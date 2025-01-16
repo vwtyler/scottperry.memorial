@@ -1,0 +1,15 @@
+{{ partial "header.html" . }}
+<h2 class="c-title p-tag-title">{{ .Title }}</h2>
+
+{{ range $page := (where .Pages "Type" "posts") }}
+  <article>
+    <h2><a href="{{ $page.Permalink }}">{{ $page.Title }}</a></h2>
+    <div>
+      {{ $page.Content }}
+    </div>
+  </article>
+{{ end }}
+
+{{ partial "pagination.html" .Paginator }}
+{{ partial "siteinfo.html" . }}
+{{ partial "footer.html" . }}

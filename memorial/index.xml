@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Memorials on In loving memory of Scott Perry</title>
-    <link>http://localhost:1313/memorial/</link>
+    <link>https://scottperry.memorial/memorial/</link>
     <description>Recent content in Memorials on In loving memory of Scott Perry</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 14 Jan 2025 18:10:28 -0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/memorial/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://scottperry.memorial/memorial/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Memorial Info</title>
-      <link>http://localhost:1313/memorial/</link>
+      <link>https://scottperry.memorial/memorial/</link>
       <pubDate>Tue, 14 Jan 2025 18:10:28 -0800</pubDate>
-      <guid>http://localhost:1313/memorial/</guid>
+      <guid>https://scottperry.memorial/memorial/</guid>
       <description>&lt;div style=&#34;text-align: center; margin: 0;&#xA;    color: #555;&#xA;    font-size: 1.6rem;&#xA;    line-height: 1.57;&#34;&gt;&#xA;  &#xA;Memorial service will be held in Atlanta, GA. Stay tuned for more information. &#xA;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;p&gt;&lt;div style=&#34;text-align: center; margin: 0;&#xA;    color: #555;&#xA;    font-size: 1.6rem;&#xA;    line-height: 1.57;&#34;&gt;&#xA;  &#xA;You may send condolences to:&#xA;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div style=&#34;text-align: center; margin: 0;&#xA;    color: #555;&#xA;    font-size: 1.6rem;&#xA;    line-height: 1.57;&#34;&gt;&#xA;  Molly Perry&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div style=&#34;text-align: center; margin: 0;&#xA;    color: #555;&#xA;    font-size: 1.6rem;&#xA;    line-height: 1.57;&#34;&gt;&#xA;  20608 Resort Rd&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div style=&#34;text-align: center; margin: 0;&#xA;    color: #555;&#xA;    font-size: 1.6rem;&#xA;    line-height: 1.57;&#34;&gt;&#xA;  Sonora, CA 95370&#xA;&#xA;&lt;/div&gt;&#xA;&lt;/p&gt;</description>
     </item>
   </channel>

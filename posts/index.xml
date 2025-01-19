@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on In loving memory of Scott Perry</title>
-    <link>https://scottperry.memorial/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on In loving memory of Scott Perry</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 09 Jan 2025 12:57:34 -0800</lastBuildDate>
-    <atom:link href="https://scottperry.memorial/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>In loving memory</title>
-      <link>https://scottperry.memorial/posts/post-1/update/</link>
+      <link>http://localhost:1313/posts/post-1/update/</link>
       <pubDate>Thu, 09 Jan 2025 12:57:34 -0800</pubDate>
-      <guid>https://scottperry.memorial/posts/post-1/update/</guid>
-      <description>&lt;p&gt;&lt;div style=&#34;text-align: center; margin: 0;&#xA;    color: #555;&#xA;    font-size: 1.6rem;&#xA;    line-height: 1.57;&#34;&gt;&#xA;   Timothy &#34;Scott&#34; Perry  &#xA;&lt;/div&gt;&#xA; &lt;br&gt;&#xA;&lt;div style=&#34;text-align: center; margin: 0;&#xA;    color: #555;&#xA;    font-size: 1.6rem;&#xA;    line-height: 1.57;&#34;&gt;&#xA;   July 26, 1953 - January 9, 2025 &#xA;&lt;/div&gt;&#xA;&lt;/p&gt;&#xA;&lt;div style=&#34;text-align: center;&#34;&gt;&#xA;    &lt;img src=&#34;https://scottperry.memorial/images/scott1.jpg&#34; alt=&#34;scott looking at the camera&#34; style=&#34;max-width: 100%;&#34; /&gt;&#xA;  &lt;/div&gt;&#xA;  &#xA;&lt;p&gt;Timothy “Scott” Perry (aka Scottman and Scottie) passed away on January 9, 2025 in Modesto, CA, following hospitalization for pneumonia. He was comforted in his final days by his wife, daughter, son-in-law and granddaughter.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/post-1/update/</guid>
+      <description>&lt;p&gt;&lt;div style=&#34;text-align: center; margin: 0;&#xA;    color: #555;&#xA;    font-size: 1.6rem;&#xA;    line-height: 1.57;&#34;&gt;&#xA;   Timothy &#34;Scott&#34; Perry  &#xA;&lt;/div&gt;&#xA; &lt;br&gt;&#xA;&lt;div style=&#34;text-align: center; margin: 0;&#xA;    color: #555;&#xA;    font-size: 1.6rem;&#xA;    line-height: 1.57;&#34;&gt;&#xA;   July 26, 1953 - January 9, 2025 &#xA;&lt;/div&gt;&#xA;&lt;/p&gt;&#xA;&lt;div style=&#34;text-align: center;&#34;&gt;&#xA;    &lt;img src=&#34;http://localhost:1313/images/scott1.jpg&#34; alt=&#34;scott looking at the camera&#34; style=&#34;max-width: 100%;&#34; /&gt;&#xA;  &lt;/div&gt;&#xA;  &#xA;&lt;p&gt;Timothy “Scott” Perry (aka Scottman and Scottie) passed away on January 9, 2025 in Modesto, CA, following hospitalization for pneumonia. He was comforted in his final days by his wife, daughter, son-in-law and granddaughter.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

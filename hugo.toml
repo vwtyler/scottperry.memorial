@@ -1,7 +1,17 @@
 baseURL = 'https://scottperry.memorial/'
 languageCode = 'en-us'
-title = 'In memory of Timothy "Scott" Perry'
+title = 'In loving memory of Scott Perry'
 theme = 'pickle'
 
 [params]
   paginate = 1
+
+[menu]
+  [[menu.main]]
+    name = "Main"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Memorial"
+    url = "/memorial/"
+    weight = 2
